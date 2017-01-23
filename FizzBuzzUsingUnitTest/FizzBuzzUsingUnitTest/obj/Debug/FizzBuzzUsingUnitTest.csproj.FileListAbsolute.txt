@@ -1,0 +1,8 @@
+C:\Users\ander\Documents\Testning av programvara\Eget\FizzBuzzUsingUnitTest\FizzBuzzUsingUnitTest\bin\Debug\FizzBuzzUsingUnitTest.exe.config
+C:\Users\ander\Documents\Testning av programvara\Eget\FizzBuzzUsingUnitTest\FizzBuzzUsingUnitTest\bin\Debug\FizzBuzzUsingUnitTest.exe
+C:\Users\ander\Documents\Testning av programvara\Eget\FizzBuzzUsingUnitTest\FizzBuzzUsingUnitTest\bin\Debug\FizzBuzzUsingUnitTest.pdb
+C:\Users\ander\Documents\Testning av programvara\Eget\FizzBuzzUsingUnitTest\FizzBuzzUsingUnitTest\bin\Debug\FizzBuzz.dll
+C:\Users\ander\Documents\Testning av programvara\Eget\FizzBuzzUsingUnitTest\FizzBuzzUsingUnitTest\bin\Debug\FizzBuzz.pdb
+C:\Users\ander\Documents\Testning av programvara\Eget\FizzBuzzUsingUnitTest\FizzBuzzUsingUnitTest\obj\Debug\FizzBuzzUsingUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ander\Documents\Testning av programvara\Eget\FizzBuzzUsingUnitTest\FizzBuzzUsingUnitTest\obj\Debug\FizzBuzzUsingUnitTest.exe
+C:\Users\ander\Documents\Testning av programvara\Eget\FizzBuzzUsingUnitTest\FizzBuzzUsingUnitTest\obj\Debug\FizzBuzzUsingUnitTest.pdb
