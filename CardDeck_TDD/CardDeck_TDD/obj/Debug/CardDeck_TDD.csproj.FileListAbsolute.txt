@@ -1,0 +1,6 @@
+C:\Users\ander\Documents\Testning av programvara\Labbar\CardDeck_TDD\CardDeck_TDD\bin\Debug\CardDeck_TDD.exe.config
+C:\Users\ander\Documents\Testning av programvara\Labbar\CardDeck_TDD\CardDeck_TDD\bin\Debug\CardDeck_TDD.exe
+C:\Users\ander\Documents\Testning av programvara\Labbar\CardDeck_TDD\CardDeck_TDD\bin\Debug\CardDeck_TDD.pdb
+C:\Users\ander\Documents\Testning av programvara\Labbar\CardDeck_TDD\CardDeck_TDD\obj\Debug\CardDeck_TDD.csprojResolveAssemblyReference.cache
+C:\Users\ander\Documents\Testning av programvara\Labbar\CardDeck_TDD\CardDeck_TDD\obj\Debug\CardDeck_TDD.exe
+C:\Users\ander\Documents\Testning av programvara\Labbar\CardDeck_TDD\CardDeck_TDD\obj\Debug\CardDeck_TDD.pdb
